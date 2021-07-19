@@ -4,6 +4,7 @@
     padding: 20px;
     max-height: fit-content;
     grid-gap: 10px;
+    grid-template-rows: max-content;
     grid-template-columns: 25% 25% 25% 25%;
 }
 .product-price {
