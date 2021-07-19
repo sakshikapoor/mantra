@@ -1,0 +1,6 @@
+.filter-wrapper {
+    min-width: 20vw;
+    text-align: left;
+    border-right: 1px solid #e6e6e6;
+    padding: 1em;
+}
